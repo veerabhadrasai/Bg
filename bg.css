@@ -1,0 +1,19 @@
+/* Light Theme */
+.light {
+  background-color: white;
+  color: #000;
+}
+
+/* Dark Theme */
+.dark {
+  background-color: black;
+  color: #ffffff;
+}
+#message{
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+}
+.message-container{
+  font-size: 20px;
+}
